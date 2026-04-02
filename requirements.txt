@@ -1,0 +1,9 @@
+# requirements.txt
+# ─────────────────────────────────────────
+# Install with:  pip install -r requirements.txt
+# ─────────────────────────────────────────
+
+mediapipe>=0.10.0        # Pose detection (Google)
+opencv-python>=4.8.0     # Webcam capture + image processing
+numpy>=1.24.0            # Numerical arrays
+matplotlib>=3.7.0        # 3-D hologram visualization
